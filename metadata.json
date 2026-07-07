@@ -1,0 +1,6 @@
+{
+  "name": "ANYJ Audio Player",
+  "description": "Professional playlist audio player optimized for all devices, featuring a unified play-pause button and low-overhead vector icons.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
